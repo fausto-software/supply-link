@@ -17,7 +17,7 @@
   ";
   
   //Emails para quem será enviado o formulário
-  $destino = "comercial@supplylink.co.mz";
+  $destino = "faustino.joao02@gmail.com";
   $assunto = "Contato pelo Site";
 
   //Este sempre deverá existir para garantir a exibição correta dos caracteres
